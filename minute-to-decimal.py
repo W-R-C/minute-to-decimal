@@ -1,7 +1,7 @@
 #!/usr/bin/env/python3
 from os import system, name
 
-# This is a simply program to translate minutes to decmials.
+# This is a simple program to translate minutes to decmials.
 # This helps me create faster senior project time tables
 
 def welcome():
